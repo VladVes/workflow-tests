@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: ls -la
-      - run: make
+      - run: make say-hello
