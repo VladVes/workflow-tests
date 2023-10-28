@@ -1,2 +1,2 @@
 say-hallo:
-		echo "Hello! Let's go!"
+	echo "Hello! Let's go!"
